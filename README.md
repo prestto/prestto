@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**prestto/prestto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tom Preston, a Full Stack Developer with around 4 years experience in Data Analysis and more recently, 3.5 years in Software Development.
 
-Here are some ideas to get you started:
+The majority of my time as a Dev has been deivided like so:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python** 60%
+- **JavaScript** 30%
+- **Devops** 10%
+
+My skillset includes:
+
+- **Python**
+- **JavaScript**
+- **SQL**
+- **Docker & docker-compose**
+- **Kubernetes**
+- **ElacticSearch**
+- **Postgresql & SQLServer**
+- **Bash**
+- **VBA** & **R**
+
+I’m currently working on [BitBuyer](https://github.com/prestto/BitBuyer), a personal project to demonstrate some skills in:
+
+- DjangoREST (Python framework)
+- Angular (TypeScript framework)
+- K8s (using k3s, k3d & Tilt)
+- Bash
+
+If you want to get in touch, checkout my [profile site](profile.tom-preston.co.uk)!
