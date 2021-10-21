@@ -22,9 +22,9 @@ My skillset includes:
 
 I’m currently working on [BitBuyer](https://github.com/prestto/BitBuyer), a personal project to demonstrate some skills in:
 
-- DjangoREST (Python framework)
-- Angular (TypeScript framework)
-- K8s (using k3s, k3d & Tilt)
-- Bash
+- **DjangoREST** (Python framework)
+- **Angular** (TypeScript framework)
+- **K8s** (using k3s, k3d & Tilt)
+- **Bash**
 
 If you want to get in touch, checkout my [profile site](profile.tom-preston.co.uk)!
