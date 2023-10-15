@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tom Preston, a Full Stack Developer with around 4 years experience in Data Analysis and more recently, 3.5 years in Software Development.
+I'm Tom Preston, a Full Stack Developer with around 4 years experience in Data Analysis and more recently, 6 years in Software Development.
 
 The majority of my time as a Dev has been divided:
 
